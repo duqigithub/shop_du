@@ -1,0 +1,114 @@
+[ 2016-11-09T11:47:53+08:00 ] 127.0.0.1 /GoodsCategory/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.044220s ]
+ERR: 无法加载模块:GoodsCategory
+
+[ 2016-11-09T11:47:53+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-11-09T12:59:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-11-09T20:55:28+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-11-09T23:49:29+08:00 ] 127.0.0.1 /Public/ext/ztree/css/zTreeStyle/zTreeStyle.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-09T23:49:29+08:00 ] 127.0.0.1 /Public/ext/ztree/js/jquery.ztree.core.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001341s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-09T23:49:29+08:00 ] 127.0.0.1 /Public/ext/ztree/js/jquery.ztree.core.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-09T23:50:40+08:00 ] 127.0.0.1 /Public/ext/ztree/js/jquery.ztree.core.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-09T23:50:40+08:00 ] 127.0.0.1 /Public/ext/ztree/css/zTreeStyle/zTreeStyle.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-09T23:50:42+08:00 ] 127.0.0.1 /Public/ext/ztree/js/jquery.ztree.core.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-09T23:50:44+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-11-09T23:51:00+08:00 ] 127.0.0.1 /Public/ext/ztree/css/zTreeStyle/zTreeStyle.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-09T23:51:00+08:00 ] 127.0.0.1 /Public/ext/ztree/js/jquery.ztree.core.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-09T23:51:00+08:00 ] 127.0.0.1 /Public/ext/ztree/js/jquery.ztree.core.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-09T23:54:38+08:00 ] 127.0.0.1 /Public/ext/ztree/js/jquery.ztree.core.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-09T23:54:38+08:00 ] 127.0.0.1 /Public/ext/ueditor/my.config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-09T23:54:38+08:00 ] 127.0.0.1 /Public/ext/ztree/css/zTreeStyle/zTreeStyle.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-09T23:54:38+08:00 ] 127.0.0.1 /Public/ext/ztree/js/jquery.ztree.core.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-09T23:54:38+08:00 ] 127.0.0.1 /Public/ext/ueditor/my.config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:Public
+
