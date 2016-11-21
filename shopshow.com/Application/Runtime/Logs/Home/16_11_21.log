@@ -1,0 +1,26 @@
+[ 2016-11-21T09:05:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014768s ]
+SQL: SHOW COLUMNS FROM `shop_goods_category` [ RunTime:0.0295s ]
+SQL: SELECT `id`,`name`,`parent_id` FROM `shop_goods_category`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000225s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8] Undefined variable: goods_new_list E:\www\shopshow.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 321 行.
+NOTIC: [8] Undefined variable: goods_hot_list E:\www\shopshow.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 336 行.
+NOTIC: [8] Undefined variable: goods_best_list E:\www\shopshow.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 350 行.
+NOTIC: [8] Undefined variable: help_article_list E:\www\shopshow.com\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 584 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.224434s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.224481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009619s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013209s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013290s ]
+
